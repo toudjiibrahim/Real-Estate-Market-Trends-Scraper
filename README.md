@@ -23,7 +23,7 @@ The source website had inconsistent HTML structures and varying text patterns ov
    ```bash
    pip install -r requirements.txt
 Run the scraper:
-code
-Bash
-python main.py
+   ```bash
+   python scraper.py
+   ```
 Output will be saved to data.csv.
