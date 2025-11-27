@@ -22,8 +22,8 @@ The source website had inconsistent HTML structures and varying text patterns ov
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
-Run the scraper:
+2. Run the scraper:
    ```bash
    python scraper.py
    ```
-Output will be saved to data.csv.
+3. Output will be saved to `data.csv`. You can view a sample of the extracted data here: [View Sample Output](./data.csv).
